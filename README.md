@@ -46,6 +46,8 @@ The U-Net architecture consists of an encoder (downsampling path) and a decoder 
 ## Results
 
 After training the U-Net model, I evaluated its performance on the validation set. The model achieved promising results, accurately predicting pixel-wise masks for various objects in the images.
+![download (12)](https://github.com/jaliyanimanthako/U-Net-Image-Segmentation-Cousera-Guided-Project-/assets/161110418/bb557623-b067-43f5-839e-a5269b28962e)
+
 ![image](https://github.com/jaliyanimanthako/U-Net-Image-Segmentation-Cousera-Guided-Project-/assets/161110418/40915fba-9a2e-45f4-979e-1339993a9f41)
 
 
