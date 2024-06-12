@@ -76,26 +76,6 @@ This symmetric architecture allows the U-Net to capture context and spatial info
 
 
 ## Implementation Steps
-1. **Import Libraries:** Load necessary libraries such as TensorFlow, Keras, NumPy, and Matplotlib.
-2. **Define U-Net Model:** Construct the U-Net model with an encoder, bottleneck, and decoder.
-3. **Compile and Train the Model:** Compile the model using an optimizer and loss function, then train it on the dataset.
-4. **Evaluate and Visualize Results:** Evaluate the model's performance on validation data and visualize the predicted masks.
-
-## Results
-After training the U-Net model, I evaluated its performance on the validation set. The model achieved promising results, accurately predicting pixel-wise masks for various objects in the images.
-
-![Segmentation Result](download (12))
-
-## Acknowledgements
-This project is inspired by the Deep Learning Specialization by deeplearning.ai on Coursera.
-
-- Convolutional Neural Networks
-- Deep Learning Specialization
-- Deep Learning with PyTorch: Image Segmentation
-
----
-
-## Implementation Steps
 
 1. **Import Libraries:** Load necessary libraries such as TensorFlow, Keras, NumPy, and Matplotlib.
 2. **Define U-Net Model:** Construct the U-Net model with an encoder, bottleneck, and decoder.
