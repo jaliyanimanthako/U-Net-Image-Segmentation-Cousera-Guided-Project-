@@ -72,6 +72,7 @@ U-Net is specifically designed for image segmentation tasks. The architecture is
 - **Expansive Path (Decoder):** Every step in the expansive path consists of an upsampling of the feature map followed by a 2x2 convolution ("up-convolution") that halves the number of feature channels, a concatenation with the correspondingly cropped feature map from the contracting path, and two 3x3 convolutions, each followed by a ReLU. Cropping is necessary due to the loss of border pixels in every convolution.
 
 This symmetric architecture allows the U-Net to capture context and spatial information effectively, making it ideal for precise segmentation tasks.
+
 ![image](https://github.com/jaliyanimanthako/U-Net-Image-Segmentation-Cousera-Guided-Project-/assets/161110418/b6ae463a-52a8-4ab0-9984-eb27301eb08d)
 
 
