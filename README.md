@@ -73,7 +73,7 @@ U-Net is specifically designed for image segmentation tasks. The architecture is
 
 This symmetric architecture allows the U-Net to capture context and spatial information effectively, making it ideal for precise segmentation tasks.
 
-      <p align="center">
+<p align="center">
   <img src="https://github.com/jaliyanimanthako/U-Net-Image-Segmentation-Cousera-Guided-Project-/assets/161110418/b6ae463a-52a8-4ab0-9984-eb27301eb08d" >
 </p>
 
